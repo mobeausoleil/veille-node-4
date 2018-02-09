@@ -11,3 +11,6 @@ main {
   margin: 0 auto;
   width: 800px;
 }
+form input {
+  border-top: 1px solid grey;
+}
