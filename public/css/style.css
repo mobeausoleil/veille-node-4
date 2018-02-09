@@ -16,3 +16,7 @@ main {
 form input {
   border-top: 1px solid grey;
 }
+form input[type=submit] {
+  width: 150px;
+  height: 100px;
+}
