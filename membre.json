@@ -1,0 +1,14 @@
+[
+	{
+		"nom":"Beausoleil",
+		"prenom":"Maurice-Olivier",
+		"courriel":"mob@courriel.ca",
+		"tel":"541-111-2222"
+	},
+	{
+		"nom":"Martin",
+		"prenom":"Eddy",
+		"courriel":"eddy@courriel.ca",
+		"tel":"541-222-3333"
+	}
+]
