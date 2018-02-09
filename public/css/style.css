@@ -6,15 +6,12 @@ body {
   background-color: black;
 }
 main {
-  margin-top: 150px;
+  margin-top: 300px;
   background-color: white;
   border: 2px solid grey;
   margin: 0 auto;
   color: black;
   width: 300px;
-}
-form input {
-  border-top: 1px solid grey;
 }
 form input[type=submit] {
   width: 80px;
